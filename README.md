@@ -1,6 +1,6 @@
 # jakis
 
-Jakis is a simple redis implemented by go.
+`jekis` is a simple redis implementation, written in `go`.
 
 ## How to use
 
